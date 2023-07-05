@@ -1,0 +1,1 @@
+the algorithm performs a series of iterations over the given array, comparing adjacent elements and swapping them if they are in the wrong order. This process continues until the entire array is sorted in ascending order. The temporary variable temp is used for swapping elements.
